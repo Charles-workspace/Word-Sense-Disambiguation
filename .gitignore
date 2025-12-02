@@ -4,3 +4,5 @@
 *.DS_Store
 Corpus-spell*
 __init__.py
+*corpus.pkl
+*token_index.pkl
