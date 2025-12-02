@@ -1,0 +1,6 @@
+*pycache*
+*.pyc
+.env
+*.DS_Store
+Corpus-spell*
+__init__.py

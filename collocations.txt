@@ -1,0 +1,230 @@
+
+=== PHONEANIMAL ===
+
+Top features for SENSE 1:
+RIGHT1=calls                   329
+WINDOW=calls                   329
+WINDOW=call                    172
+RIGHT1=call                    157
+WINDOW=said                    85
+WINDOW=company                 75
+WINDOW=return                  71
+RIGHT1=company                 71
+WINDOW=lines                   71
+RIGHT1=lines                   70
+WINDOW=number                  68
+RIGHT1=number                  66
+WINDOW=local                   66
+RIGHT1=companies               62
+WINDOW=companies               62
+WINDOW=service                 59
+RIGHT1=service                 58
+LEFT1=local                    58
+WINDOW=up                      52
+RIGHT1=numbers                 51
+
+Top features for SENSE 2:
+WINDOW=rights                  139
+RIGHT1=rights                  138
+WINDOW=wild                    64
+WINDOW=plant                   63
+LEFT1=wild                     63
+WINDOW=activists               55
+WINDOW=said                    52
+RIGHT1=park                    51
+WINDOW=park                    51
+RIGHT2=activists               49
+RIGHT2=plant                   47
+WINDOW=control                 42
+WINDOW=department              40
+LEFT2=department               38
+RIGHT1=control                 35
+WINDOW=products                32
+RIGHT2=said                    30
+RIGHT2=groups                  27
+WINDOW=groups                  27
+RIGHT1=products                26
+
+=== HOTELWAR ===
+
+Top features for SENSE 1:
+WINDOW=room                    270
+RIGHT1=room                    210
+WINDOW=where                   165
+WINDOW=casino                  159
+WINDOW=said                    140
+RIGHT1=where                   138
+WINDOW=rooms                   101
+RIGHT1=rooms                   86
+RIGHT2=said                    68
+WINDOW=plaza                   65
+RIGHT1=casino                  65
+WINDOW=he                      64
+WINDOW=downtown                64
+LEFT1=plaza                    64
+WINDOW=grand                   61
+RIGHT2=casino                  60
+WINDOW=suite                   60
+WINDOW=new                     56
+RIGHT1=suite                   56
+RIGHT2=he                      53
+
+Top features for SENSE 2:
+WINDOW=world                   2875
+LEFT1=world                    2854
+WINDOW=ii                      2451
+RIGHT1=ii                      2445
+WINDOW=civil                   1350
+LEFT1=civil                    1346
+WINDOW=during                  930
+LEFT2=during                   891
+WINDOW=year                    877
+WINDOW=iraq                    845
+WINDOW=iran                    815
+WINDOW=vietnam                 808
+LEFT1=vietnam                  751
+WINDOW=old                     700
+WINDOW=against                 644
+LEFT2=year                     624
+RIGHT1=against                 610
+LEFT2=iran                     549
+WINDOW=after                   531
+LEFT1=iraq                     521
+
+=== CARSPEECH ===
+
+Top features for SENSE 1:
+WINDOW=said                    385
+WINDOW=bomb                    299
+RIGHT1=bomb                    290
+WINDOW=when                    231
+RIGHT2=said                    216
+WINDOW=sales                   200
+RIGHT1=sales                   196
+WINDOW=police                  159
+LEFT2=when                     152
+WINDOW=he                      150
+WINDOW=after                   137
+WINDOW=parked                  133
+WINDOW=exploded                120
+WINDOW=new                     112
+LEFT2=said                     110
+RIGHT1=bombing                 109
+WINDOW=bombing                 109
+WINDOW=had                     107
+RIGHT2=exploded                96
+LEFT1=new                      95
+
+Top features for SENSE 2:
+WINDOW=said                    246
+WINDOW=free                    240
+LEFT1=acceptance               238
+WINDOW=acceptance              238
+LEFT1=free                     238
+WINDOW=he                      193
+WINDOW=after                   173
+RIGHT2=said                    143
+LEFT2=after                    139
+WINDOW=freedom                 136
+WINDOW=before                  134
+LEFT2=freedom                  122
+WINDOW=during                  120
+WINDOW=dukakis                 111
+WINDOW=delivered               109
+RIGHT1=he                      108
+WINDOW=reagan                  108
+WINDOW=bush                    103
+WINDOW=gorbachev               96
+LEFT2=during                   93
+
+=== SCHOOLOIL ===
+
+Top features for SENSE 1:
+WINDOW=high                    2926
+LEFT1=high                     2914
+WINDOW=said                    701
+WINDOW=elementary              599
+LEFT1=elementary               592
+WINDOW=law                     561
+WINDOW=students                539
+LEFT1=law                      513
+RIGHT1=students                450
+WINDOW=officials               450
+RIGHT1=officials               428
+WINDOW=public                  372
+WINDOW=board                   367
+WINDOW=medical                 364
+LEFT1=medical                  360
+RIGHT1=board                   348
+RIGHT2=said                    310
+LEFT1=public                   295
+WINDOW=district                292
+RIGHT1=district                285
+
+Top features for SENSE 2:
+WINDOW=prices                  1373
+RIGHT1=prices                  1165
+WINDOW=crude                   917
+LEFT1=crude                    911
+WINDOW=heating                 578
+LEFT1=heating                  571
+WINDOW=gas                     537
+RIGHT2=gas                     489
+WINDOW=company                 340
+WINDOW=futures                 294
+WINDOW=co                      290
+RIGHT1=futures                 288
+RIGHT2=cents                   284
+WINDOW=cents                   284
+RIGHT1=company                 276
+RIGHT2=cent                    268
+WINDOW=cent                    268
+WINDOW=industry                267
+WINDOW=said                    264
+RIGHT1=industry                255
+
+=== MUSICFOREST ===
+
+Top features for SENSE 1:
+WINDOW=country                 349
+LEFT1=country                  346
+WINDOW=rock                    111
+WINDOW=director                107
+LEFT1=rock                     105
+RIGHT1=director                100
+WINDOW=dance                   79
+WINDOW=said                    79
+WINDOW=hall                    75
+WINDOW=classical               75
+RIGHT1=hall                    73
+LEFT1=classical                73
+WINDOW=he                      63
+WINDOW=pop                     63
+LEFT1=pop                      62
+WINDOW=sound                   61
+WINDOW=city                    60
+WINDOW=awards                  60
+WINDOW=has                     56
+WINDOW=american                54
+
+Top features for SENSE 2:
+WINDOW=service                 612
+RIGHT1=service                 607
+WINDOW=national                589
+LEFT1=national                 581
+WINDOW=fires                   198
+RIGHT1=fires                   194
+WINDOW=fire                    155
+RIGHT1=fire                    136
+WINDOW=said                    124
+RIGHT1=products                70
+WINDOW=products                70
+RIGHT2=said                    63
+LEFT1=rain                     63
+WINDOW=rain                    63
+WINDOW=spokesman               60
+WINDOW=teton                   59
+WINDOW=officials               59
+LEFT1=wake                     54
+WINDOW=wake                    54
+WINDOW=acres                   53
