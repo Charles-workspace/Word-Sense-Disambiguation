@@ -2,6 +2,7 @@
 
 This project implements Yarowsky’s (1995) bootstrapping algorithm for Word Sense Disambiguation (WSD) using the AP News 1988 corpus.
 The implementation includes:
+
 	1.	A manual evaluation pipeline on naturally ambiguous English words.
 	2.	An auto evaluation pipeline using conflated nouns.
 	3.	Bootstrapped decision list training using seed cues.
